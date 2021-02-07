@@ -2,7 +2,6 @@
 My name is Esraa Aldawood, graduated from Hashemite University in 2019 as a Nutritionist .
 Currently , I am intrested in learning programming .
 
-intro 
 
 
 
