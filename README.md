@@ -11,4 +11,5 @@ Currently , I am intrested in learning programming .
 |2|[Git intro](Git-intro.md) |
 |3|[Growth Mindset](Growth-Mindset.md) |
 |4|[Gitting started with Github pages](Github-pages.md)|
-|5|[Mastering-Markdown](Markdown.md)
+|5|[Mastering-Markdown](Markdown.md)|
+|6|[Text-Editors](Text-Editors.md)
