@@ -10,6 +10,6 @@ Currently , I am intrested in learning programming .
 |1|[Markdown on Github](Markdown.md)   |
 |2|[Git intro](Git-intro.md) |
 |3|[Growth Mindset](Growth-Mindset.md) |
-|4|[Gitting started with Github pages](Github-pages.md)|
+|4|[Gitting started with Github pages](https://esraa-creator.github.io/reading-note/GitHub-Pages)|
 |5|[Mastering-Markdown](Markdown.md)|
 |6|[Text-Editors](Text-Editors.md)
