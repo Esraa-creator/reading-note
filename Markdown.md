@@ -23,7 +23,9 @@ Ordered
 1. Item 2
 
 Images
+
 ![GitHub Logo](/images/logo.png)
+
 Format: ![Alt Text](url)
 
 Links
