@@ -11,4 +11,6 @@ Currently , I am intrested in learning programming .
 |2|[Git intro](Git-intro.md) |
 |3|[Growth Mindset](Growth-Mindset.md) |
 |4|[Gitting started with Github pages](https://esraa-creator.github.io/reading-note/GitHub-Pages)|
-|6|[Text-Editors](Text-Editors.md)
+|6|[Text-Editors](Text-Editors.md)|
+|7|[ducket_javascript](ducket_javascript.md)|
+|8|[HTMLCSS](HTMLCSS.md)
