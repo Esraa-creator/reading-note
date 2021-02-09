@@ -14,3 +14,6 @@ Currently , I am intrested in learning programming .
 |6|[Text-Editors](Text-Editors.md)|
 |7|[ducket_javascript](ducket_javascript.md)|
 |8|[HTMLCSS](HTMLCSS.md)
+|9|[logical-operators](logical-operators.md)
+|10|[comparision-operators](comparision-operators.md)
+|11|[loops-and-counterloop](loops-and-counterloop.md)
