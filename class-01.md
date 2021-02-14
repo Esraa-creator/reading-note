@@ -229,3 +229,62 @@ across your key message and helps users find what they are looking for.
 
 Site navigation not only helps people find where they want to go, but also
 helps them understand what your site is about and how it is organized.
+
+
+A script is a series of instructions that a computer can follow to achieve a goal.
+
+Examples :
+RECIPES By following the instructions in a recipe, one-by-one in the order set out, cooks can create a dish they have never made before.
+Another similarity is that, if you are new to cooking or programming, there is a lot of new terminology to learn.
+
+HANDBOOKS Large companies often provide handbooks for new employees that contain procedures to follow in certain situations.
+Similarly, in a complex script, the browser might use only a subset of the code available at any given time
+
+MANUALS Mechanics often refer to car repair manuals when servicing models they are not familiar with. These manuals contain a series of tests to check the key functions of the car are working, along with details of how to fix any issues that arise.
+Similarly, scripts can allow the browser to check the current situation and only perform a set of steps if that action is appropriate.
+
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+
+Start with the big picture of what you want to achieve, and break that down into smaller steps. 1: DEFINE THE GOAL
+2: DESIGN THE SCRIPT
+3: CODE EACH STEP
+
+Computers are very logical and obedient. They need to be told every detail of what they are expected to do, and they will do it without question. Because they need different types of instructions compared to you or I, everyone who learns to program makes lots of mistakes at the start.
+
+
+Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
+
+Each time the script runs, it might only use a subset of all the instructions.
+
+Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+
+In computer programming, each physical thing in the world can be represented as an object.
+Each object can have its own:  Properties ، Events and  Methods.
+
+
+Each property has a name and a value, and each of these name/value pairs tells you something about each individual instance of the object.
+
+Scripts often use different events to trigger different types of functionality. So a script will state which events the programmer wants to respond to, and what part of the script should be run when each of those events occur.
+
+Methods typically represent how people (or other things) interact with an object in the real world.
+
+The code for a method can contain lots of instructions that together represent one task.
+
+Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties.
+
+The browser represents each window or tab using a window object. The location property of the window object will tell you the URL of the current page.
+
+The current web page loaded into each window is modelled using a document object.
+
+When the browser creates a model of a web page, it not only creates a document object, but it also creates a new object for each element on the page. Together these objects are described in the Document Object Model.
+
+JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
+
+When you want to use JavaScript with a web page, you use the HTML  script element to tell the browser it is coming across a script. Its src attribute tells people where the JavaScript file is stored.
+
+As you may have guessed, document. write() writes content into the document (the web page). It is a simple way to add content to a page, but not always the best.
+
+If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created. 
+
