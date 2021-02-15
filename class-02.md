@@ -100,6 +100,7 @@ CSS rules usually appear in a separate document,
 although they may appear within an HTML page.
 
 JS:
+
 A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
 
 Some statements are surrounded by curly braces; these are known as code blocks. The closing curly brace is not followed by a semicolon.
@@ -116,7 +117,7 @@ You cannot use keywords or reserved words. Keywords are special words that tell 
 
 You should consider using an array whenever you are working with a list or a set of values that are related to each other.
 
-An expression evaluates into (results in) a single value.
+An expression evaluates into (results in) a single value:
 
 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE
 2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE
@@ -127,6 +128,7 @@ DECISIONS Using the results of evaluations, you can decide which path your scrip
 LOOPS There are also many occasions where you will want to perform the same set of steps repeatedly. 
 
 At the most basic level, you can evaluate two variables using a comparison operator to return a true or false value.
+
 
 Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands.
 

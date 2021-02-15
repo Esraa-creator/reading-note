@@ -20,4 +20,4 @@ This table below contains interesting topics regarding HTML ,CSS and Java Script
 |11|[loops_and_counterloop](loops-and-counterloop.md)|
 |12|[CSS_AND_COLOR](https://esraa-creator.github.io/reading-note/CSSandCOLOR)|
 |13|[class-01](class-01.md)
-|14|[class-02](/home/esraaa/reading-note-/class-02.md)
+|14|[class-02](class-02.md)
