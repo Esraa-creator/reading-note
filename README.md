@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 102 Reading Notes
 My name is Esraa Aldawood, graduated from Hashemite University in 2019 as a Nutritionist .
 Currently , I am intrested in learning programming ,coding and web developing.
 This table below contains interesting topics regarding HTML ,CSS and Java Script.
