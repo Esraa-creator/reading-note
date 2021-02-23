@@ -21,6 +21,11 @@ This table below contains interesting topics regarding HTML ,CSS and Java Script
 |12|[CSS_AND_COLOR](https://esraa-creator.github.io/reading-note/CSSandCOLOR)|
 
 
+<p>
+
+# Code 201 Reading Notes
+Hello again 
+This table below contains interesting topics regarding HTML ,CSS and Java Script helping you to create a well designed web page. </p>
 
 |NO. | Title  | 
 |---|---|
@@ -28,4 +33,7 @@ This table below contains interesting topics regarding HTML ,CSS and Java Script
 |2|[class-02](class-02.md)|
 |3|[claas-03](class-03.md)|
 |4|[class-04](/home/esraaa/reading-note-/class-04/class-04.md)
-|5|[class-05](/home/esraaa/reading-note-/class-05/class-05/class-05.md)
+|5|[class-05](/home/esraaa/reading-note-/class-05/class-05/class-05.md)|
+|6|[class-06](/home/esraaa/reading-note-/class-06.md)|
+|7|[class-07](/home/esraaa/reading-note-/class-07.md)|
+|8|[class-08](/home/esraaa/reading-note-/class-08.md)|
