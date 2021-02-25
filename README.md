@@ -38,3 +38,4 @@ This table below contains interesting topics regarding HTML ,CSS and Java Script
 |7|[class-07](class-07.md)|
 |8|[class-08](class-08.md)|
 |9|[class-09](class-09.md)|
+|10|[class-10](class-10.md)|
