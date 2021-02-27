@@ -1,4 +1,4 @@
-src
+### src
 This tells the browser where
 it can find the image file. This
 will usually be a relative URL
@@ -7,7 +7,7 @@ own site. (Here you can see that
 the images are in a child folder
 called images — relative URLs
 were covered on pages 83-84).
-alt
+### alt
 This provides a text description
 of the image which describes the
 image if you cannot see it.
@@ -20,10 +20,10 @@ will display the content of this
 attribute in a tootip when the
 user hovers over the image.
 
-height
+### height
 This specifies the height of the
 image in pixels.
-width
+### width
 This specifies the width of the
 image in pixels.
 
@@ -45,7 +45,7 @@ of the image, the larger the size of the file.
 Photographs are best saved as JPEGs; illustrations or
 logos that use flat colors are better saved as GIFs
 
-rgb values
+### rgb values
 These express colors in terms
 of how much red, green and
 blue are used to make it up. For
@@ -62,7 +62,7 @@ names that are recognized
 by browsers. For example:
 DarkCyan
 
-Hue
+### Hue
 Hue is near to the colloquial idea
 of color. Technically speaking
 however, a color can also have
@@ -76,8 +76,8 @@ gray in the color. At minimum
 saturation, the color would be
 mostly gray.
 Brigh tness
-Brightness (or "value") refers
-to how much black is in a color.
+### Brightness (or "value") 
+refers to how much black is in a color.
 At maximum brightness, there
 would be no black in the color.
 At minimum brightness, the
@@ -91,7 +91,7 @@ Sans-serif fonts have straight
 ends to letters and therefore
 have a much cleaner design.
 
-pixels
+### pixels
 Pixels are commonly used
 because they allow web
 designers very precise control
