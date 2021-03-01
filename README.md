@@ -42,5 +42,6 @@ This table below contains interesting topics regarding HTML ,CSS and Java Script
 |9|[class-09](class-09.md)|
 |10|[class-10](class-10.md)|
 |11|[class-11](class-11.md)|
+|12|[class12](class12.md)|
 
 
