@@ -1,5 +1,5 @@
 ### Images
-* You can specify the dimensions o XX f images using CSS.
+* You can specify the dimensions of images using CSS.
 This is very helpful when you use the same sized
 images on several pages of your site.
 * Images can be aligned both horizontally and vertically
@@ -14,7 +14,7 @@ background position of an image.
 load, you can create image sprites.
 
 ### Practical Information
-* Search engine optimization h XX elps visitors find your
+* Search engine optimization helps visitors find your
 sites when using search engines.
 * Analytics tools such as Google Analytics allow you to
 see how many people visit your site, how they find it,
